@@ -23,8 +23,4 @@ Follow the video for Gesture and Voice-Control Based Virtual Mouse Project demon
 	
 	
   
-## Team
-Website: VTUPulse.com
-Youtube: https://www.youtube.com/@MaheshHuddar
-Telegram: https://t.me/vtupulse
-  
+
